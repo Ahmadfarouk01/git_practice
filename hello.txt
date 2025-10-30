@@ -20,6 +20,12 @@ comands
 and etc
 
 
+git clonning and connecting 
+
+clonning is the act of bringing a repository that has been hosted on git hub onto your place
+
+connecting is the process of adding your already created repository onto github 
+
 upstream this means where your loal branch pulls updates from (usually the remote repository or another branch)
 example : git pull origin main
 
