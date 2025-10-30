@@ -1,2 +1,30 @@
-"hello git" 
-"this is the editoring branch"
+git and github
+
+git is a free and open source version control system
+
+version control is the management of changes to documents, computer programs large websites and other collections of information
+
+Terms
+1, directory 
+2, terminal
+3, cd -> change dirrectory 
+4, repository -> project, folder/place
+
+comands
+1, clone
+2,add
+3, push
+4, pull
+5,init 
+6, status
+and etc
+
+
+upstream this means where your loal branch pulls updates from (usually the remote repository or another branch)
+example : git pull origin main
+
+
+downstream where your local branch pushes udates to 
+example git push orogin main/ master
+
+
