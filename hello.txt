@@ -27,4 +27,4 @@ example : git pull origin main
 downstream where your local branch pushes udates to 
 example git push orogin main/ master
 
-
+pull request this is a communication between the team which basically says hey ive made some changes on my branch review it and merge them into master / main 
